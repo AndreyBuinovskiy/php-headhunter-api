@@ -1,5 +1,5 @@
 {
-    "name": "andreybuinovskiy/headhunter-api",
+    "name": "andreybuinovskiy/php-headhunter-api",
     "description": "PHP library to interact with hh.ru API",
     "keywords": [
         "php",
